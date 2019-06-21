@@ -5,7 +5,11 @@ Google Colaboratory
 ランタイム python3 GPU
 
 # Usage
-使い方。なるべく具体的に書く。サンプルも書く
+実装手順：
+https://github.com/HijikiTaro/GAN/blob/master/gan.ipynb
+
+実装結果：
+
 
 # References
 http://yusuke-ujitoko.hatenablog.com/entry/2017/05/08/010314
