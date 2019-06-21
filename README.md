@@ -1,8 +1,9 @@
 # GANでMNISTを生成してみるチュートリアル
 
 # Setup
-Google Colaboratory
-ランタイム python3 GPU
+実行環境：Google Colaboratory
+
+ランタイム：python3 GPU
 
 # Usage
 実装手順：
