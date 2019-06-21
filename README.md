@@ -9,7 +9,8 @@ Google Colaboratory
 https://github.com/HijikiTaro/GAN/blob/master/gan.ipynb
 
 実装結果：
-
+![epoch-0](https://github.com/HijikiTaro/GAN/blob/master/epoch0.png "epoch0")
+![epoch-300000](https://github.com/HijikiTaro/GAN/blob/master/epoch3000000.png "epoch3000000")
 
 # References
 http://yusuke-ujitoko.hatenablog.com/entry/2017/05/08/010314
